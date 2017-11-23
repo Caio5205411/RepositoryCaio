@@ -1,0 +1,7 @@
+	entrada 				Saida
+
+	n1 =20; n2=2;				 R=10
+	n1=50;  n2=5;				 R=25;
+	n1=-100; n2=2;                   	 R=-50;
+	n1=30;   n2=0;				 R=IMPOSSIBILIDADE
+	

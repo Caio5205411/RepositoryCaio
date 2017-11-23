@@ -1,0 +1,13 @@
+Identificar requisitos 
+ 1 - Uma livraria virtual vende livros de diversas editoras .De um livro deseja-se saber , titulo , autores ,, preço de venda. tipo de acabamento , (brochura , encadernado , especial) e editora.
+
+
+2- De uma editora deseja-se saber :nome , telefone. O controle de livros e editoras é de responsabilidade do administrador da livraria .
+
+
+3- Caso o cliente ainda nao esteja cadastrado , ele deve-se cadastrar na finalização do pedido . 
+
+
+4- De um cliente deseja-se saber o nome , endreço , e-mail ,e senha .
+
+5 -Quando o primeiro livro e incorporado ao pedido .registra-se a data de incio do pedido. 
